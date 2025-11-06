@@ -1,5 +1,5 @@
-
 # Python Exercises 2
+
 # Exercise 4: Simple Unit Converter
 temp_input = float(input("What is the temperature?"))
 unit_input = input("\nWhat is the unit? (type either 'C' or 'F')")
@@ -15,7 +15,7 @@ def temp_unit_converter(temp, unit):
     print("\nEnter a correct unit")
 
 temp_unit_converter(temp_input, unit_input)  
-  
+
 
 # Exercise 5: Tax Calculator 
 income = float(input("Enter your gross income"))
